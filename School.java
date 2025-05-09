@@ -55,3 +55,4 @@ class School
         Result obj=new Result(s,r,g,p);
         obj.display();
     }
+}
